@@ -37,7 +37,7 @@ editor = Nano
 shell = kitty
 
 ```
-</td> <td width="40%" align="center"> <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXkwbDBtYXlvN2xkdzBwMGQ4MWEyOThmMnAwNXdqYjVia3F3eTk5cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/0tr3WUeQCFRdWScnHG/giphy.gif" width="300"/> </td> </tr> </table> <br> <!-- ===================== QUOTE ===================== --> <div align="center">
+</td> <td width="40%" align="center"> <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGZhczN0OHRnaXZtMXQwaWxsa2V5OXQyN3VrNm1xczdoc2JwaGJ4ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/77rvjVcaJr1BgKSXtR/giphy.gif" width="300"/> </td> </tr> </table> <br> <!-- ===================== QUOTE ===================== --> <div align="center">
 
 ╔══════════════════════════════════════════════════════╗
 ║                                                      ║
