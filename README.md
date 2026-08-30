@@ -36,4 +36,11 @@ OS = Arch
 editor = Nano
 shell = kitty
 
-
+```
+</td> <td width="40%" align="center"> <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXkwbDBtYXlvN2xkdzBwMGQ4MWEyOThmMnAwNXdqYjVia3F3eTk5cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/0tr3WUeQCFRdWScnHG/giphy.gif" width="300"/> </td> </tr> </table> <br> <!-- ===================== QUOTE ===================== --> <div align="center">
+╔══════════════════════════════════════════════════════╗
+║                                                      ║
+║   “But how could you live and have no story to tell?”║
+║                 ― Fyodor Dostoevsky, White Nights "  ║           
+║                                                      ║
+╚══════════════════════════════════════════════════════╝
