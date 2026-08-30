@@ -41,10 +41,10 @@ shell = kitty
 
 
 ┌──────────────────────────────────────────────────────────────────────┐
-│                                                                      │
-│          “But how could you live and have no story to tell?”         │
-│                                                                      │
-│                    ― Fyodor Dostoevsky, White Nights                 │
-│                                                                      │
+                                                               
+       “But how could you live and have no story to tell?”       
+                                                               
+                  ― Fyodor Dostoevsky, White Nights               
+                                                                 
 └──────────────────────────────────────────────────────────────────────┘
 
