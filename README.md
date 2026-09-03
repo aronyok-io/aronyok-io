@@ -16,7 +16,7 @@
 
 ```ini
 [identity]
-name = Anubhav
+name = A
 username = aronyok-io
 location = 103.231.0.0
 
