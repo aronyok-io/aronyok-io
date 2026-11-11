@@ -32,8 +32,8 @@ working_on = Building and improving
 04 = Chess, Geopolitics, Maths & Physics
 
 [system]
-OS = Arch
-editor = Nano
+OS = Fedora
+editor = Neovim
 shell = kitty
 
 ```
